@@ -1,5 +1,6 @@
 Welcome to tmux!
 //test buildbot
+//test buildbot
 
 tmux is a terminal multiplexer: it enables a number of terminals to be created,
 accessed, and controlled from a single screen. tmux may be detached from a
